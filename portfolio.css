@@ -1,0 +1,40 @@
+*{
+    background-color: #F5F5DC;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: #800020;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: underline; text-decoration-color: black;
+    margin-bottom: 10px;
+
+
+}
+h3{
+    margin: 10px;
+    text-align: center;
+    margin-top: 25px;
+    
+   
+}
+.box{
+    height: 10vh;
+    background-color: #D8CAB8;
+    border: 3px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration-color: #4B2E2E;
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+   
+}
+div:hover{
+    background-color:#800020;
+    color: white;
+}
